@@ -1,1 +1,1 @@
-# IP_BLOCKER
+## iptablesでIPをブロックします。
